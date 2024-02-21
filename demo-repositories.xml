@@ -1,0 +1,5 @@
+<repositories>
+	<repo name="Keronic Demo GitHub Repository">
+		<get url="https://krn-sebastiaan.github.io/mmojos-demo-store"/>
+	</repo>
+</repositories>
